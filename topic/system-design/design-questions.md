@@ -7,3 +7,5 @@ https://www.educative.io/courses/grokking-modern-system-design-interview-for-eng
 https://bytebytego.com/intro/system-design-interview
 
 https://www.geeksforgeeks.org/top-10-system-design-interview-questions-and-answers/
+
+https://in.indeed.com/career-advice/interviewing/system-design-interview-questions
