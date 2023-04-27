@@ -5,3 +5,5 @@ https://medium.com/geekculture/top-12-system-design-interview-questions-with-ans
 https://www.educative.io/courses/grokking-modern-system-design-interview-for-engineers-managers
 
 https://bytebytego.com/intro/system-design-interview
+
+https://www.geeksforgeeks.org/top-10-system-design-interview-questions-and-answers/
