@@ -1,3 +1,5 @@
+https://medium.com/coders-mojo/complete-system-design-series-part-1-45bf9c8654bc
+
 https://medium.com/system-design-interview-question/top-5-resources-to-prepare-for-system-design-interview-e50139f3953d
 
 https://medium.com/javarevisited/25-software-design-interview-questions-to-crack-any-programming-and-technical-interviews-4b8237942db0
