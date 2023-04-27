@@ -1,5 +1,7 @@
 https://medium.com/javarevisited/top-30-system-design-interview-questions-and-problems-for-programmers-417e89eadd67
 
+https://medium.com/javarevisited/25-software-design-interview-questions-to-crack-any-programming-and-technical-interviews-4b8237942db0
+
 https://medium.com/geekculture/top-12-system-design-interview-questions-with-answers-2022-dc2b6599f39a
 
 https://www.educative.io/courses/grokking-modern-system-design-interview-for-engineers-managers
